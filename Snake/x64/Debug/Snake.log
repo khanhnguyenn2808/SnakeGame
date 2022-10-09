@@ -1,0 +1,14 @@
+﻿  Game.c
+C:\Users\ruoic\OneDrive\Máy tính\SNAKE\C\Snake\Snake\Header.h(29,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ruoic\OneDrive\Máy tính\SNAKE\C\Snake\Snake\Game.c(29,23): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+C:\Users\ruoic\OneDrive\Máy tính\SNAKE\C\Snake\Snake\Game.c(30,21): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+C:\Users\ruoic\OneDrive\Máy tính\SNAKE\C\Snake\Snake\Game.c(24,1): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int'
+C:\Users\ruoic\OneDrive\Máy tính\SNAKE\C\Snake\Snake\Game.c(25,1): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int'
+C:\Users\ruoic\OneDrive\Máy tính\SNAKE\C\Snake\Snake\Game.c(56,41): warning C4020: 'Snake_Hit_Fruit': too many actual parameters
+C:\Users\ruoic\OneDrive\Máy tính\SNAKE\C\Snake\Snake\Game.c(58,15): warning C4028: formal parameter 1 different from declaration
+C:\Users\ruoic\OneDrive\Máy tính\SNAKE\C\Snake\Snake\Game.c(58,23): warning C4028: formal parameter 2 different from declaration
+C:\Users\ruoic\OneDrive\Máy tính\SNAKE\C\Snake\Snake\Game.c(78,36): warning C4020: 'Snake_Eat_Fruit': too many actual parameters
+C:\Users\ruoic\OneDrive\Máy tính\SNAKE\C\Snake\Snake\Game.c(94,1): warning C4029: declared formal parameter list different from definition
+C:\Users\ruoic\OneDrive\Máy tính\SNAKE\C\Snake\Snake\Game.c(104,1): warning C4029: declared formal parameter list different from definition
+C:\Users\ruoic\OneDrive\Máy tính\SNAKE\C\Snake\Snake\Game.c(126): warning C4715: 'Self_Hit': not all control paths return a value
+  Snake.vcxproj -> C:\Users\ruoic\OneDrive\Máy tính\SNAKE\C\Snake\x64\Debug\Snake.exe
